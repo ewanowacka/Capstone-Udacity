@@ -1,2 +1,2 @@
-# Capstone-Udacity
-My Capstone Project for Machine Learning Nanodegree at Udacity
+# Machine Learning Portfolio
+Machine learning projects that I have completed.
